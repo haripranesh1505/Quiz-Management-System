@@ -1,0 +1,2 @@
+# Quiz-Management-System
+The ‘Quiz Management System’ project developed to overcome the time consuming problem of manual system. Apart from that in current system, checking the answer sheets after taking test, waste the examiners time  so this application will check the correct answer and save the examiner time and carry the examination in an effective manner. The users which are use this system don’t  need to high computing knowledge and also system will inform them while entering invalid data.
